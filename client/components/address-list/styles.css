@@ -1,0 +1,24 @@
+.address-list{
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.address-list-header{
+  font-size: 26px;
+  padding: 10px;
+  width: 100%;
+  justify-content: center;
+  display: flex;
+}
+
+.address-list-item{
+  display: flex;
+  line-height: 20px;
+  font-size: 20px;
+  padding: 10px;
+  width: 100%;
+  justify-content: center;
+}

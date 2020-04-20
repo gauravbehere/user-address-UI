@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test suite for AddressList component Should render AddressList component without props 1`] = `
+<div>
+  <div
+    class="address-list"
+  >
+    <div
+      class="address-list-header"
+    >
+      Address List
+    </div>
+    <div
+      data-testid="noUserSelectedMsg"
+    >
+      Pick a user
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test suite for UserList component Should render UserList component without props 1`] = `
+<div>
+  <div
+    class="user-list"
+  >
+    <div
+      class="user-list-header"
+    >
+      List of Users
+    </div>
+    <div
+      data-testid="noUserMsg"
+    >
+      No user found
+    </div>
+  </div>
+</div>
+`;

@@ -1,0 +1,52 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test suite for App component Should render UserList component intially, fetching the users  1`] = `
+<div>
+  <div
+    class="page-container"
+  >
+    <div
+      class="user-list"
+    >
+      <div
+        class="user-list-header"
+      >
+        List of Users
+      </div>
+      <div
+        class="user-list-item"
+        data-testid="user-list-item-0"
+      >
+        <div>
+          Abc
+        </div>
+        <div>
+          Age: 
+        </div>
+        <div>
+          Employee#: 
+          123
+        </div>
+        <div>
+          Gender: 
+          M
+        </div>
+      </div>
+    </div>
+    <div
+      class="address-list"
+    >
+      <div
+        class="address-list-header"
+      >
+        Address List
+      </div>
+      <div
+        data-testid="noUserSelectedMsg"
+      >
+        Pick a user
+      </div>
+    </div>
+  </div>
+</div>
+`;
